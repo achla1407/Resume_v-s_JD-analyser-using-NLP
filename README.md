@@ -21,4 +21,4 @@ The app is built with **Streamlit** for an interactive user interface.
 - **Streamlit** – web app UI  
 - **scikit-learn** – TF-IDF and cosine similarity  
 - **pdfplumber** – PDF text extraction  
-der>
+
